@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="https://raw.githubusercontent.com/AdSoNaTuRaL/move-it/79cd116eec5a9b2c1e4a75ac0916b9a75825a714/public/logo-full.svg?token=AGIPATSMYOKZ2GMMUT5FVRTAHYDTU" />
+    <img alt="Move.it" title="Move.it" src="https://user-images.githubusercontent.com/26275918/109629493-2b564a00-7b44-11eb-990a-04d2310d1461.png" />
 </h1>
 
 <p align="center">
