@@ -23,9 +23,7 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🔥 Preview
-
-[![Deploy with Vercel](https://vercel.com/button)](https://move-it-adsonatural.vercel.app/)
+## 🔥 [Preview](https://vercel.com/button)](https://move-it-adsonatural.vercel.app/)
 
 ## 🚀 Getting started
 
