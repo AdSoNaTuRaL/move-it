@@ -7,7 +7,7 @@
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://move-it-adsonatural.vercel.app/" target="_blank">🔥Preview</a>    
+  <a href="https://move-it-adsonatural.vercel.app/" target="_blank">Preview</a>    
 </p>
 
 <br>
