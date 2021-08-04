@@ -6,7 +6,8 @@
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://move-it-adsonatural.vercel.app/" target="_blank">🔥Preview</a>    
 </p>
 
 <br>
@@ -22,8 +23,6 @@ This project was developed using the following technologies:
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-
-## 🔥 [Preview](https://vercel.com/button)](https://move-it-adsonatural.vercel.app/)
 
 ## 🚀 Getting started
 
